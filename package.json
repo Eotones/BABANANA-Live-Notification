@@ -1,0 +1,15 @@
+{
+  "name": "babanana-live-notification",
+  "version": "1.0.0",
+  "description": "babanana live notification",
+  "main": "BabananaLiveNotification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node BabananaLiveNotification.js"
+  },
+  "author": "Eotones",
+  "license": "MIT",
+  "dependencies": {
+    "discord-webhook-node": "^1.0.7"
+  }
+}
