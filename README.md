@@ -1,5 +1,5 @@
 # BABANANA-Live-Notification
-LangLive unofficial live notification / LangLive非官方版直播通知,目前支援:
+LangPlay unofficial live notification / LangPlay非官方版直播通知,目前支援:
 * Discord Webhook
 
 ## Requirements
@@ -18,8 +18,8 @@ then
 * copy `config.json.example`
 * change filename to `config.php`
     * edit your
-        * `"LangPlayRoomId"` - Lang live room id
-        * `"DiscordWebhookLink"` - discord webhook url
+        * `"LangPlayRoomId"` - LangPlay room id
+        * `"DiscordWebhookLink"` - Discord webhook url
         * `"OnlineMsg"` - stream online message
         * `"OfflineMsg"` - stream offline message
 
