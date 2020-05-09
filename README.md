@@ -16,7 +16,7 @@ $ npm i
 then
 
 * copy `config.json.example`
-* change filename to `config.php`
+* change filename to `config.json`
     * edit your
         * `"LangPlayRoomId"` - LangPlay room id
         * `"DiscordWebhookLink"` - Discord webhook url
